@@ -165,7 +165,7 @@
       <workItem from="1579349933675" duration="3678000" />
       <workItem from="1580036686788" duration="3312000" />
       <workItem from="1580045642888" duration="1784000" />
-      <workItem from="1580047482396" duration="29100000" />
+      <workItem from="1580047482396" duration="29361000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 提交lucene学习demo">
       <created>1580472050469</created>
@@ -174,11 +174,43 @@
       <option name="project" value="LOCAL" />
       <updated>1580472050470</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[ADD] 提交lucene学习demo">
+      <created>1580472586857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580472586857</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[ADD] 提交lucene学习demo">
+      <created>1580472614436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580472614436</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[ADD] 提交lucene学习demo">
+      <created>1580472628194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580472628194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[ADD] 提交lucene学习demo" />
@@ -201,10 +233,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1580457181486" />
-    <state x="361" y="160" key="CommitChangelistDialog2" timestamp="1580472614346">
+    <state x="361" y="160" key="CommitChangelistDialog2" timestamp="1580472628105">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="361" y="160" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580472614346" />
+    <state x="361" y="160" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580472628105" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1579350031204">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -269,10 +301,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1580471946359" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1580472590032">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1580472839075">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580472590032" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580472839075" />
     <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580472311493">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
