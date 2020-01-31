@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457308d7-9217-4c48-b63b-23908691e929" name="Default Changelist" comment="" />
+    <list default="true" id="457308d7-9217-4c48-b63b-23908691e929" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -49,6 +52,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WZGYZzlk1qb8ux3SHV8qvEsOem" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -161,18 +165,30 @@
       <workItem from="1579349933675" duration="3678000" />
       <workItem from="1580036686788" duration="3312000" />
       <workItem from="1580045642888" duration="1784000" />
-      <workItem from="1580047482396" duration="28507000" />
+      <workItem from="1580047482396" duration="29100000" />
     </task>
+    <task id="LOCAL-00001" summary="[ADD] 提交lucene学习demo">
+      <created>1580472050469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580472050470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[ADD] 提交lucene学习demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 提交lucene学习demo" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="225" key="#Notifications" timestamp="1580036710683">
+    <state x="496" y="225" key="#Notifications" timestamp="1580472223298">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="225" key="#Notifications/0.0.1792.1120@0.0.1792.1120" timestamp="1580036710683" />
+    <state x="496" y="225" key="#Notifications/0.0.1792.1120@0.0.1792.1120" timestamp="1580472223298" />
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579350007298">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -185,6 +201,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1580457181486" />
+    <state x="361" y="160" key="CommitChangelistDialog2" timestamp="1580472050175">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="361" y="160" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580472050175" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1579350031204">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -245,6 +265,14 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1580471946359" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1580472194129">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580472194129" />
+    <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580472311493">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580472311493" />
     <state x="634" y="320" key="extract.method.dialog" timestamp="1580460317486">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
