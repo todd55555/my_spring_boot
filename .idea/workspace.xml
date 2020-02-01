@@ -1,46 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457308d7-9217-4c48-b63b-23908691e929" name="Default Changelist" comment="[ADD] 提交lucene学习demo">
+    <list default="true" id="457308d7-9217-4c48-b63b-23908691e929" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MySpringBoot.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/MySpringBootApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/config/DataSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/controller/BookController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/dao/BookMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/dao/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/BookExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/BookExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/BookExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/BookExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/UserExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/UserExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/UserExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/entity/UserExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/mappers/BookMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/mappers/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/service/BookService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/service/IndexService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/service/impl/BookServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/todd/lucene/util/ReturnResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/BookMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/indexDir/_0.cfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/indexDir/_0.cfs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/indexDir/_0.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/indexDir/segments.gen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/indexDir/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/indexDir/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/todd/lucene/MySpringBootApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +166,7 @@
       <workItem from="1580036686788" duration="3312000" />
       <workItem from="1580045642888" duration="1784000" />
       <workItem from="1580047482396" duration="30499000" />
+      <workItem from="1580520806059" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 提交lucene学习demo">
       <created>1580472050469</created>
@@ -240,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580472878492</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[ADD] 提交lucene学习demo">
+      <created>1580520842681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580520842681</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +221,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -278,10 +250,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1580457181486" />
-    <state x="361" y="160" key="CommitChangelistDialog2" timestamp="1580473340930">
+    <state x="361" y="160" key="CommitChangelistDialog2" timestamp="1580520842561">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="361" y="160" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580473340930" />
+    <state x="361" y="160" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580520842561" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1579350031204">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -342,6 +314,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1332" height="544" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1580520268203" />
+    <state x="508" y="261" key="NewModule_or_Project.wizard" timestamp="1580521336944">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="508" y="261" key="NewModule_or_Project.wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1580521336944" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1580471946359">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
