@@ -23,7 +23,7 @@
 		<mybatis.plus.starter.version>1.0.4</mybatis.plus.starter.version>
 		<mybatis.plus.version>2.0.7</mybatis.plus.version>
 		<fastJson.version>1.2.62</fastJson.version>
-		<commons.collections.version>3.2.1</commons.collections.version>
+		<commons.collections.version>3.2.2</commons.collections.version>
 		<google.collections.version>1.0</google.collections.version>
 	</properties>
 
